@@ -1,4 +1,4 @@
-# # Make a sample Gitlab CI pipeline to run tests every commit for a basic node js project
+#  Make a sample Gitlab CI pipeline to run tests every commit for a basic node js project
 
 - Set up a free account on gitlab.com
 
